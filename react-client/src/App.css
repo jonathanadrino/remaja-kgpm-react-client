@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.btn-orange-moon {
+    background-color: #fcd34d;
+    color: black;
+}
+
+.news-card {
+  box-shadow: 7px 7px tomato, 14px 14px #1c87c9;
+    border-radius: 10px;
+}
+
+.news-title {
+    box-shadow: 5px 5px #0891b2, 10px 10px ;
+}
+
+.komisi-title {
+    box-shadow: 3px 3px tomato, 6px 6px #1c87c9;
+}
+
+footer {
+    padding: 7em 0; }
+  
+  .footer-07 {
+    background: #121212; }
+    .footer-07 a {
+      color: #a3de83; }
+    .footer-07 p {
+      color: rgba(255, 255, 255, 0.3); }
+    .footer-07 .footer-heading {
+      font-size: 30px;
+      color: #fff;
+      font-weight: 700;
+      margin-bottom: 30px; }
+      .footer-07 .footer-heading .logo {
+        color: #fff; }
+    .footer-07 .menu {
+      margin-bottom: 30px; }
+      .footer-07 .menu a {
+        color: rgba(255, 255, 255, 0.6);
+        margin: 0 10px;
+        text-transform: uppercase;
+        letter-spacing: 1px; }
+    .footer-07 .ftco-footer-social li a {
+      background: transparent;
+      border: 1px solid #a3de83; }
+  
+
+      .text-body {
+        white-space: pre-line; /* or pre-line */
+      }
